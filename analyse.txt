@@ -1,0 +1,16 @@
+3.A Chiffres d'affaires total :
+
+Lors de l'exécution de la requête, on obtient 44 825 € de CA réalisé sur la période du 1er janvier 2022 au 20 janvier 2022, soit un total de 2 241,25€ par jour.
+
+3.B les ventes par produit
+
+Lorsque l'on regarde les ventes par produit, on obtient :
+- 1 750 ventes pour le produit A qui ont rapporté 17 500€
+- 1 055 ventes pour le produit B qui ont généré 15 825€
+- 575 ventes pour un total de 11 500€ pour le produit C
+
+Cette analyse nous montre que le produit A est le principal contributeur du chiffre d'affaires et est également le produit qui s'écoule le mieux en volume, suivi du B et enfin du C qui présente les prestations les plus basses aussi bien en chiffre d'affaires qu'en volume écoulé.
+
+3.C Ventes par region :
+
+L'analyse des ventes par région nous informe que la région nord écoule un total de 1605 produits sur la période de 20 jours, tandis que le sud 1775, soit 170 produit en plus. Le volume écoulé au sud est donc plus important, indépendamment du produit. Pour le CA régional, le sud est également avantagé avec 24100€ contre 20725 € pour le nord pour une différence de 3 375€. 
